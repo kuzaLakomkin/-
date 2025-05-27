@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="he">
+<head>
+  <meta charset="UTF-8" />
+  <title>משחקים להורדה</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      direction: rtl;
+      background-color: #f0f0f0;
+      margin: 20px;
+      color: #333;
+    }
+    h1, h2 {
+      color: #004080;
+    }
+    ul {
+      list-style-type: none;
+      padding: 0;
+    }
+    li {
+      margin-bottom: 8px;
+    }
+    a {
+      text-decoration: none;
+      color: #0066cc;
+      font-weight: bold;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    .container {
+      max-width: 700px;
+      margin: auto;
+      background: white;
+      padding: 20px 30px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+      border-radius: 8px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>משחקים להורדה</h1>
+
+    <h2>סדרת Fallout</h2>
+    <ul>
+      <li><a href="https://archive.org/details/fallout-1.1-update" target="_blank" rel="noopener">Fallout 1 (1997)</a></li>
+      <li><a href="https://archive.org/details/fallout-2.1-update" target="_blank" rel="noopener">Fallout 2 (1998)</a></li>
+      <li><a href="https://fallout.bethesda.net/en" target="_blank" rel="noopener">Fallout 3</a></li>
+      <li><a href="https://store.steampowered.com/app/22380/Fallout_New_Vegas/" target="_blank" rel="noopener">Fallout: New Vegas</a></li>
+      <li><a href="https://fallout.bethesda.net/games/fallout-4" target="_blank" rel="noopener">Fallout 4</a></li>
+      <li><a href="https://fallout.bethesda.net/en" target="_blank" rel="noopener">Fallout 76</a></li>
+      <li><a href="https://play.google.com/store/apps/details?id=com.bethsoft.falloutshelter" target="_blank" rel="noopener">Fallout Shelter (מובייל)</a></li>
+    </ul>
+
+    <h2>סדרת The Elder Scrolls</h2>
+    <ul>
+      <li><a href="https://archive.org/details/arena" target="_blank" rel="noopener">The Elder Scrolls: Arena (1994)</a></li>
+      <li><a href="https://archive.org/details/daggerfall" target="_blank" rel="noopener">The Elder Scrolls II: Daggerfall (1996)</a></li>
+      <li><a href="https://elderscrolls.bethesda.net/en" target="_blank" rel="noopener">The Elder Scrolls III: Morrowind (2002)</a></li>
+      <li><a href="https://elderscrolls.bethesda.net/oblivion-remastered" target="_blank" rel="noopener">The Elder Scrolls IV: Oblivion (2006)</a></li>
+      <li><a href="https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/" target="_blank" rel="noopener">The Elder Scrolls V: Skyrim (2011)</a></li>
+      <li><a href="https://www.elderscrollsonline.com/" target="_blank" rel="noopener">The Elder Scrolls Online (2015)</a></li>
+      <li><a href="https://play.google.com/store/apps/details?id=com.bethsoft.blade" target="_blank" rel="noopener">The Elder Scrolls: Blades (מובייל)</a></li>
+    </ul>
+
+    <h2>סדרת Portal</h2>
+    <ul>
+      <li><a href="https://store.steampowered.com/app/400/Portal/" target="_blank" rel="noopener">Portal (2007)</a></li>
+      <li><a href="https://store.steampowered.com/app/620/Portal_2/" target="_blank" rel="noopener">Portal 2 (2011)</a></li>
+      <li><a href="https://play.google.com/store/apps/details?id=com.Playstal.Portal.Maze.Aperture.Jumper.Puzzle.Games.Teleport.Portal2" target="_blank" rel="noopener">Portal – גרסה לאנדרואיד (לא רשמית)</a></li>
+    </ul>
+
+    <h2>סדרת DOOM</h2>
+    <ul>
+      <li><a href="https://store.steampowered.com/app/2280/DOOM_II/" target="_blank" rel="noopener">DOOM II (1994) - Steam</a></li>
+      <li><a href="https://store.steampowered.com/app/379720/DOOM/" target="_blank" rel="noopener">DOOM (2016) - Steam</a></li>
+      <li><a href="https://store.steampowered.com/app/782330/DOOM_Eternal/" target="_blank" rel="noopener">DOOM Eternal (2020) - Steam</a></li>
+      <li><a href="https://bethesda.net/en/game/doom" target="_blank" rel="noopener">DOOM (מקור באתר Bethesda)</a></li>
+    </ul>
+
+    <h2>סדרת STALKER</h2>
+    <ul>
+      <li><a href="https://store.steampowered.com/app/4500/S_T_A_L_K_E_R__Shadow_of_Chernobyl/" target="_blank" rel="noopener">S.T.A.L.K.E.R.: Shadow of Chernobyl</a></li>
+      <li><a href="https://store.steampowered.com/app/4510/S_T_A_L_K_E_R__Clear_Sky/" target="_blank" rel="noopener">S.T.A.L.K.E.R.: Clear Sky</a></li>
+      <li><a href="https://store.steampowered.com/app/45120/S_T_A_L_K_E_R__Call_of_Pripyat/" target="_blank" rel="noopener">S.T.A.L.K.E.R.: Call of Pripyat</a></li>
+      <li><a href="https://www.gog.com/game/stalker_shadow_of_chernobyl" target="_blank" rel="noopener">S.T.A.L.K.E.R.: Shadow of Chernobyl (GOG)</a></li>
+    </ul>
+  </div>
+</body>
+</html>
